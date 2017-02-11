@@ -1,0 +1,44 @@
+[
+	{
+		"thingID": "1",
+		"someProperty": "8716948000003",
+		"afnemerID": "gemeente",
+		"bedrag": 750,
+		"userID": "john"
+	},
+	{
+		"thingID": "2",
+		"someProperty": "124914266456",
+		"afnemerID": "water",
+		"bedrag": -100,
+		"userID": "john"
+	},
+	{
+		"thingID": "3",
+		"someProperty": "124914261456",
+		"afnemerID": "woningbouw",
+		"bedrag": -400,
+		"userID": "john"
+	},
+	{
+		"thingID": "4",
+		"someProperty": "asdasd",
+		"afnemerID": "gemeente",
+		"bedrag": 400,
+		"userID": "john"
+	},
+	{
+		"thingID": "4",
+		"someProperty": "asdasd",
+		"afnemerID": "gemeente",
+		"bedrag": 400,
+		"userID": "john"
+	},
+	{
+		"thingID": "5",
+		"someProperty": "asdasd",
+		"afnemerID": "gemeente",
+		"bedrag": 400,
+		"userID": "john"
+	}
+]
